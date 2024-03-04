@@ -4,6 +4,9 @@ import io
 import numpy as np
 import pandas as pd
 
+from ydata_profiling import ProfileReport
+from ydata_profiling import ProfileReport
+
 import matplotlib.pyplot as plt
 import seaborn as sns
 
