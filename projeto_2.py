@@ -4,8 +4,6 @@ import io
 import numpy as np
 import pandas as pd
 
-from streamlit_pandas_profiling import st_profile_report
-
 import matplotlib.pyplot as plt
 import seaborn as sns
 
