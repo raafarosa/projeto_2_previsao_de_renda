@@ -53,7 +53,7 @@ with st.sidebar.expander("Bibliotecas/Pacotes", expanded=False):
     ''', language='python')
 
 
-st.markdown('# <div style="text-align:center"> Previsão de renda </div>',
+st.markdown('# <div style="text-align:center"> [Previsão de renda](https://github.com/raafarosa/projeto_2_previsao_de_renda) </div>',
             unsafe_allow_html=True)
 
 
