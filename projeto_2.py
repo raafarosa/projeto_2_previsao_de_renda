@@ -417,7 +417,6 @@ st.markdown('''
 ## Etapa 6 Crisp-DM: Implantação <a name="6"></a>
 ''', unsafe_allow_html=True)
 
-st.markdown('Neste cenário foi desenvolvida uma calculadora simples para a simulação das condições de crédito, baseando-se em todo o entendimento que foi feito sobre este modelo ao longo da trajetória da analise.')
+st.markdown('Neste cenário foi desenvolvida uma calculadora simples para a simulação das condições de crédito, baseando-se em todo o entendimento que foi feito sobre este modelo ao longo da trajetória da analise. Que pode ser visto no menu de navegação lateral nomeado como "Simulacao"')
 
-st.markdown('[Simulando a previsão de renda](http://localhost:8502/)')
 '---'
