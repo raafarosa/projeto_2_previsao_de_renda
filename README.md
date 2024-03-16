@@ -9,7 +9,7 @@
 
 ---
 
-[streamlit-Projeto_02-2023-04-14-16-04-01.webm](Precisao_de_renda.webm)
+[Precisao_de_renda.webm](https://github.com/raafarosa/projeto_2_previsao_de_renda/assets/141688193/09c89d3e-25ca-4613-8cd0-c52e5e5dfc11)
 
 ---
 
