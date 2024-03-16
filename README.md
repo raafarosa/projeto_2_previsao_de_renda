@@ -9,7 +9,7 @@
 
 ---
 
-[Precisao_de_renda.webm](https://github.com/raafarosa/projeto_2_previsao_de_renda/assets/141688193/09c89d3e-25ca-4613-8cd0-c52e5e5dfc11)
+[Previsao_de_renda.webm](https://github.com/raafarosa/projeto_2_previsao_de_renda/assets/141688193/585ea86e-6385-4790-b1e6-1be544c7454f)
 
 ---
 
