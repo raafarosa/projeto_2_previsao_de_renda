@@ -9,7 +9,7 @@
 
 ---
 
-[streamlit-Projeto_02-2023-04-14-16-04-01.webm](https://user-images.githubusercontent.com/104247925/232136253-b673fdd4-1f79-4f9b-bb90-0fbbebdbbf03.webm)
+[streamlit-Projeto_02-2023-04-14-16-04-01.webm](Precisao_de_renda.webm)
 
 ---
 
