@@ -2,9 +2,6 @@
 
 ---
 
-# [**Profissão: Cientista de Dados**](https://github.com/rhatiro/Curso_EBAC-Profissao_Cientista_de_Dados)
-### [**Projeto #02**](https://github.com/raafarosa/projeto_2_previsao_de_renda/blob/main/Projeto_2_previsao_de_renda.ipynb) | [Previsão de renda](https://rafael-rosa-projeto-2.streamlit.app/)
-
 **Por:** [Rafael Rosa](https://www.linkedin.com/in/rafael-rosa-alves/)<br>
 
 ---
